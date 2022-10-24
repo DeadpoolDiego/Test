@@ -1,0 +1,5 @@
+Hello World!
+I like to REPLACEMEhobby. This is how we replace strings.
+
+Sincerely,
+REPLACEMEname
